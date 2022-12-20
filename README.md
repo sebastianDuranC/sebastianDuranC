@@ -15,7 +15,7 @@ Me gusta la programación web Front-End en donde aprendo tecnologias como HTML |
 * Trabajo en equipo
 ## 💻 Tecnologias y herramientas ⚒️
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows?r=1)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white-target:_blank)](https://www.microsoft.com/es-es/windows?r=1)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/es/vs/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -24,12 +24,13 @@ Me gusta la programación web Front-End en donde aprendo tecnologias como HTML |
 
 ## Github States
 
-https://github-readme-stats.vercel.app/api?username={sebastianDuranC}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username={sebastianduranc}&theme=blue-green
 
 <div align="center">
   
   ## Mi frase favorita
-  ¡ Si puedes imaginarlo, puedes programarlo ! </br>
+  ```ruby
+  ¡ Si puedes imaginarlo, puedes programarlo !
   Autor: Alejandro Tabodoa Sánchez
-  
+  ```
 <div/>
