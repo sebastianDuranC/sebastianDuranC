@@ -28,7 +28,8 @@ Me gusta la programación web Front-End en donde aprendo tecnologias como HTML |
 
 ## Github States
 
-https://github-readme-stats.vercel.app/api?username=sebastianDuranC&theme=blue-green
+![Lenguajes Mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&theme=blue-green)
+
 
 <div align="center">
   
