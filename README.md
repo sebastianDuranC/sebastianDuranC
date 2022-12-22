@@ -35,7 +35,7 @@ Me gusta la programación web Front-End en donde aprendo tecnologias como HTML |
   
   ## Mi frase favorita
   ```ruby
-  ¡ Si puedes imaginarlo, puedes programarlo !
+  "Si puedes imaginarlo, puedes programarlo"
   Autor: Alejandro Tabodoa Sánchez
   ```
 <div/>
