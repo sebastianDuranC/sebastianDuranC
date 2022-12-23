@@ -9,10 +9,10 @@
 </p>
 
 ## Sobre mí
->Soy un estudiante de la carrera de Ingeniería de Sistemas en la Universidad Aquino de Bolivia - Udabol.</br>
+>Me encuentro estudiando en la Universidad Aquino de Bolivia - Udabol, para obtener un titulo como Ingeniero de Sistemas.</br>
 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
 
-<img align="right" width=190px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+<img align="right" width=190px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 ## 📚 Cuento con capacidades </br>
 * Una actitud curiosa y positiva </br>
