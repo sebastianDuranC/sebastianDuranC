@@ -1,5 +1,5 @@
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
-<h1> Hola, Yo soy Sebastian 👋 👨‍💻 </h1>
+<h1> Hola, Yo soy Sebastian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt=" hola"/>👨‍💻 </h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="30" width="40" /></a>
@@ -8,9 +8,11 @@
 <a href="https://discord.gg/Sebastian Duran Caballero#4747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sebastian Duran Caballero#4747" height="30" width="40" /></a>
 </p>
 
+## Sobre mí
 >Soy un estudiante de la carrera de Ingeniería de Sistemas en la Universidad Aquino de Bolivia - Udabol.</br>
-Me gusta la programación web Front-End en donde aprendo tecnologias como HTML | CSS | JS</br>
-</ Busco oportunidades para adquirir experiencia en programacion .NET con el lenguaje de programación C# donde pueda continuar mis conocimientos técnicos, tambien   adquirir experiencia en desarrollo web fronted con las tecnologias HTML, CSS, Javascript />
+Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
+
+<img align="right" width=190px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 ## 📚 Cuento con capacidades </br>
 * Una actitud curiosa y positiva </br>
