@@ -46,7 +46,11 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ## ⭐ Lenguajes mas utilizados
-![Lenguajes Mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&theme=blue-green)
+![Lenguajes Mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&theme=blue-green) </br>
+
+<img src="https://raw.githubusercontent.com/sebastianDuranC/sebastianDuranC/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   
