@@ -1,11 +1,11 @@
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
-<h1> Hola, Yo soy Sebastian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt=" hola"/>👨‍💻 </h1>
+<h1 align="center">Hola, Yo soy Sebastian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt=" hola"/>👨‍💻</h1>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sebastian_172_duran_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="30" width="40" /></a>
-<a href="https://discord.gg/Sebastian Duran Caballero#4747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sebastian Duran Caballero#4747" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="30" width="40" /></a>
+<a href="https://discord.gg/Sebastian Duran Caballero#4747" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sebastian Duran Caballero#4747" height="30" width="40" /></a>
 </p>
 
 ## Sobre mí
