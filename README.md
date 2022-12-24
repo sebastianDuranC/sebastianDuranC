@@ -42,8 +42,7 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 
 ## 💻 Tecnologias y herramientas ⚒️
 <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank">
-  
-  <img>[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows?r=1)</img>
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 </a>
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
