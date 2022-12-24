@@ -40,8 +40,6 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="65" alt="react logo"  />
 </div>
 
-###
-
 ## 💻 Tecnologias y herramientas ⚒️
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows?r=1)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
