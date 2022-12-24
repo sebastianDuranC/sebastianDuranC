@@ -15,7 +15,7 @@
 >Me encuentro estudiando en la Universidad Aquino de Bolivia - Udabol, para optar por un titulo como Ingeniero en Sistemas.</br>
 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
 
-<img align="right" width=190px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 
 ## 📚 Cuento con capacidades </br>
 * Una actitud curiosa y positiva </br>
@@ -57,7 +57,11 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sebastianDuranC" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sebastianDuranC" height="150" alt="languages graph"  />
-</div>
+</div> </br>
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/sebastianDuranC/sebastianDuranC/blob/output/snake.svg" alt="Snake animation" />
+###
 
 <div align="center">
   
