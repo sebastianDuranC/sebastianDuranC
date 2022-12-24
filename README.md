@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="30" width="40" /></a>
 <a href="https://discord.gg/Sebastian Duran Caballero#4747" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sebastian Duran Caballero#4747" height="30" width="40" /></a>
 </div> </br>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"  />
 </div>
@@ -15,9 +16,9 @@
 >Me encuentro estudiando en la Universidad Aquino de Bolivia - Udabol, para optar por un titulo como Ingeniero en Sistemas.</br>
 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
 
-<img align="right" height="200" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 
 ## 📚 Cuento con capacidades </br>
+<img align="right" width="133" height="140" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 * Una actitud curiosa y positiva </br>
 * Una gestión eficiente de mi tiempo </br>
 * Creatividad </br>
