@@ -55,17 +55,13 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ## ⭐ Estadisiticas 🎢
-
-<div align="center" width="100vw">
-  
+<div align="center">
 <a>
   <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"/>
 </a>  
-
-<a>
-  <img align="center" width="450" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&locale=es&theme=graywhite&layout=compact"/>
-</a>
-  
+<a>&#160;
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&locale=es&theme=gotham&layout=compact"/>
+</a>  
 </div>
 
 <div align="center">
