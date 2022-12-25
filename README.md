@@ -17,12 +17,12 @@
 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
 
 
-## 📚 Cuento con capacidades </br>
+## 🔮 Cosas sobre mí </br>
 <img align="right" width="133" height="140" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
-* Una actitud curiosa y positiva </br>
-* Una gestión eficiente de mi tiempo </br>
-* Creatividad </br>
-* Trabajo en equipo
+* Me encuentro aprendiendo ingles 📕</br>
+* Paso en mi tiempo libre jugando video juegos 🕹️</br>
+* Disfruto ver animes y series 📺</br>
+* Soy muy selecto con la musica que escucho 🎧
 
 ## 🧠 Aprendiendo
 <br clear="both">
