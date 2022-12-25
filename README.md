@@ -62,6 +62,9 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 <a>
   <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&show_icons=true&theme=gruvbox_light&locale=es"></img>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   
   ## Mi frase favorita
