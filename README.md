@@ -56,11 +56,16 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 
 ## ⭐ Estadisiticas 🎢
 
-<div align="center">
+<div align="center" width="100vw">
   
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=es&hide_border=false&custom_title=Estadisticas de GitHub&username=sebastianDuranC" height="150" alt="stats graph"/>
+<a>
+  <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"/>
+</a>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&custom_title=Lenguajes que mas uso&username=sebastianDuranC" height="150" alt="languages graph"/>
+<a>
+  <img align="center" width="450" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&locale=es&theme=graywhite&layout=compact"/>
+</a>
+  
 </div>
 
 <div align="center">
