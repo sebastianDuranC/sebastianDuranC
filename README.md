@@ -17,7 +17,7 @@
 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
 
 
-## 🔮 Cosas sobre mí </br>
+## 🔮 Mis hobbies </br>
 <img align="right" width="133" height="140" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 
 * Me encuentro aprendiendo un idioma 📕</br>
@@ -55,11 +55,13 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ## ⭐ Estadisiticas 🎢
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sebastianDuranC" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sebastianDuranC" height="150" alt="languages graph"  />
-</div>
-
+<div align="center" width="100vw">
+<a>
+  <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"></img> 
+</a> &#160;
+<a>
+  <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&show_icons=true&theme=gruvbox_light&locale=es"></img>
+</a>
 <div align="center">
   
   ## Mi frase favorita
