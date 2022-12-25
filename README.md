@@ -55,15 +55,13 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ## ⭐ Estadisiticas 🎢
-<div align="center" width="100vw">
-<a>
-  <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"></img> 
-</a> &#160;
-<a>
-  <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&show_icons=true&theme=gruvbox_light&locale=es"></img>
-</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=es&hide_border=false&custom_title=Estadisticas de GitHub&username=sebastianDuranC" height="150" alt="stats graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&custom_title=Lenguajes que mas uso&username=sebastianDuranC" height="150" alt="languages graph"/>
+</div>
 
 <div align="center">
   
