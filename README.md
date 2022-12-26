@@ -60,7 +60,7 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
   <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"/>
 </a>  
 <a>&#160;
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&locale=es&theme=gotham&layout=compact"/>
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&locale=es&theme=gotham&layout=compact"/>
 </a>  
 </div>
 
