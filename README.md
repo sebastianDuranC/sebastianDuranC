@@ -20,10 +20,10 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 ## 🔮 Mis hobbies </br>
 <img align="right" width="133" height="140" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 
-* Me encuentro aprendiendo un idioma 📕</br>
-* Paso en mi tiempo libre jugando video juegos 🕹️</br>
-* Disfruto ver animes y series 📺</br>
-* Soy muy selectivo con la musica que escucho 🎧
+* Leer libros 📕</br>
+* Jugar video juegos 🕹️</br>
+* Ver animes y series 📺</br>
+* Escuchar musica 🎧
 
 ## 🧠 Aprendiendo
 <br clear="both">
