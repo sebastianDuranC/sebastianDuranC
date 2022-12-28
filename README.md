@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"/>
 </div>
 
-## Sobre mí
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mí
 >Me encuentro estudiando en la Universidad Aquino de Bolivia - Udabol, para optar por un titulo como Ingeniero en Sistemas.</br>
 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
 
@@ -32,7 +32,7 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="65" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="65" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="65" alt="git logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" width="65" alt="github logo"  />
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="55" width="65" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="65" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="65" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="65" alt="javascript logo"  />
@@ -55,7 +55,7 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 [![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-## ⭐ Estadisiticas 🎢
+## ⭐ My GitHub States <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 
 <div align="center">
 <a>
   <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"/>
