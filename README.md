@@ -1,31 +1,33 @@
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
-<h1 align="center">Hola, Yo soy Sebastian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt=" hola"/>👨‍💻</h1>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="30" width="40" /></a>
-<a href="https://discord.gg/Sebastian Duran Caballero#4747" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sebastian Duran Caballero#4747" height="30" width="40" /></a>
-</div> </br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=50&pause=1000&color=7400FF&center=true&vCenter=true&width=440&height=100&lines=Hi+here%2C+I'm+Sebastian" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="_blank" title="LinkedIn" alt="LindkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="50" width="40" /></a> &#160;
+<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="_blank" title="Facebook" alt="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="50" width="40" /></a> &#160;
+<a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank" title="Instagram" alt="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="50" width="40" /></a>
+</div></br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"/>
 </div>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mí
->Me encuentro estudiando en la Universidad Aquino de Bolivia - Udabol, para optar por un titulo como Ingeniero en Sistemas.</br>
-Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la programacion en especial el desarrollo frontend y tambien la aprender el uso de C# .NET para la creación de aplicaciones de escritorio.
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me
+>I am studying at the Aquinas University of Bolivia - Udabol, to opt for a degree as a Systems Engineer.</br>
+I am currently learning Web development technologies, I like programming especially frontend development and also learning the use of C# .NET for creating desktop applications.
 
 
-## 🔮 Mis hobbies </br>
+## 🔮 My hobbies </br>
 <img align="right" width="133" height="140" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 
-* Leer libros 📕</br>
-* Jugar video juegos 🕹️</br>
-* Ver animes y series 📺</br>
-* Escuchar musica 🎧
+* Read books 📕</br>
+* Play video games 🕹️</br>
+* Watch anime and series 📺</br>
+* Listen to music 🎧
 
-## 🧠 Aprendiendo
+## 🧠 I'm learning
 <br clear="both">
 
 <div align="center">
@@ -42,7 +44,7 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="65" alt="react logo"  />
 </div>
 
-## 💻 Tecnologias y herramientas ⚒️
+## 💻 Technologies and tools ⚒️
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows?r=1)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -67,7 +69,7 @@ Actualmente estoy aprendiendo Tecnologías de Desarrollo Web, me gusta la progra
 
 <div align="center">
   
-  ## Mi frase favorita
+  ## That's my favorite line
   ```js
   "Si puedes imaginarlo, puedes programarlo"
   Autor: Alejandro Tabodoa Sánchez
