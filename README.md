@@ -52,10 +52,10 @@ I am currently learning Web development technologies, I like programming especia
 ## ⭐ My GitHub States <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 
 <div align="center">
 <a>
-  <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr&locale=es"/>
+  <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr"/>
 </a>  
 <a>&#160;
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&locale=es&theme=gotham&layout=compact"/>
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&theme=gotham&layout=compact"/>
 </a>  
 </div>
 
