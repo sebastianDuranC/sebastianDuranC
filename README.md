@@ -1,7 +1,7 @@
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=50&pause=1000&color=7400FF&center=true&vCenter=true&width=440&height=100&lines=Hi+here%2C+I'm+Sebastian" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=50&pause=1000&color=7400FF&center=true&vCenter=true&width=440&height=100&lines=Hi+there%2C+I'm+Sebastian" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
