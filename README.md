@@ -18,7 +18,7 @@
   <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"/>
 </div>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" height="35"/> About me
 >>I am studying at the Aquinas University of Bolivia - Udabol, to opt for a degree as a Systems Engineer.</br>
 I am currently learning Web development technologies, I like programming especially frontend development and also learning the use of C# .NET for creating desktop applications.
 
@@ -31,7 +31,7 @@ I am currently learning Web development technologies, I like programming especia
 * Watch anime and series 📺</br>
 * Listen to music 🎧
 
-## 🧠 I'm learning
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40" height="35"/> I'm learning
 <br clear="both">
 
 <div align="center">
