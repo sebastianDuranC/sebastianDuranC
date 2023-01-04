@@ -1,21 +1,25 @@
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=50&pause=1000&color=7400FF&center=true&vCenter=true&width=440&height=100&lines=Hi+there%2C+I'm+Sebastian" alt="Typing SVG" /></a>
+<div width="100px" heigth="100px">
+  
+  ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
 </div>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="_blank" title="LinkedIn" alt="LindkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="50" width="40" /></a> &#160;
-<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="_blank" title="Facebook" alt="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="50" width="40" /></a> &#160;
-<a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank" title="Instagram" alt="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="50" width="40" /></a>
+<div align="end">
+<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="_blank" title="LinkedIn" alt="LindkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="30" width="25" /></a> &#160;
+<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="_blank" title="Facebook" alt="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="30" width="25" /></a> &#160;
+<a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank" title="Instagram" alt="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="30" width="25" /></a>
 </div></br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&size=30&pause=1000&color=2C2C2C&background=FAFF32&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Sebastian" alt="Typing SVG" /></a>
+</div>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"/>
 </div>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me
->I am studying at the Aquinas University of Bolivia - Udabol, to opt for a degree as a Systems Engineer.</br>
+>>I am studying at the Aquinas University of Bolivia - Udabol, to opt for a degree as a Systems Engineer.</br>
 I am currently learning Web development technologies, I like programming especially frontend development and also learning the use of C# .NET for creating desktop applications.
 
 
