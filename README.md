@@ -18,21 +18,30 @@
   <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"/>
 </div>
 
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" height="35"/> About me
 >>I am studying at the Aquinas University of Bolivia - Udabol, to opt for a degree as a Systems Engineer.</br>
-I am currently learning Web development technologies, I like programming especially frontend development and also learning the use of C# .NET for creating desktop applications.
+I'm currently learning Web development technologies. </br>
+I like programming especially frontend development and also learning the use of C# .NET. 
 
 
 ## 🔮 My hobbies </br>
-<img align="right" width="133" height="140" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif"  />
 
-* Read books 📕</br>
-* Play video games 🕹️</br>
-* Watch anime and series 📺</br>
-* Listen to music 🎧
+<img align="left" width="145" height="130" src="https://user-images.githubusercontent.com/88981225/210670189-9357c1f6-be39-4d21-bda1-9faacb9f3bdd.gif"/>
+
+
+  ```js
+  
+ >>  📕 Learn something new
+ >>  🕹️ Play video games 
+ >>  📺 Watch anime, series as well movies
+ >>  🎧 Listen to music
+ >>  🥊 Practice boxing
+
+  ```
+</br>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40" height="35"/> I'm learning
-<br clear="both">
 
 <div align="center">
   
