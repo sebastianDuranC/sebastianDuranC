@@ -32,7 +32,7 @@ I am currently learning Web development technologies, I like programming especia
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,vscode,html,css,js,electron,git,github,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet,vscode,html,css,js,react,git,github,linux)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="65" alt="microsoftsqlserver logo"  />
 </div>
 
