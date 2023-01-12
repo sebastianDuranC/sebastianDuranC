@@ -1,6 +1,7 @@
-<div width="100px" heigth="100px">
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/88981225/211966025-e82f78c5-ed7d-43da-9895-68602c4b4d6a.png"/>
   
-  ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333230302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966](https://user-images.githubusercontent.com/88981225/208567456-16aa3473-df7a-4ed1-8d03-b07f5fc755ab.gif)
 </div>
 
 <div align="end">
@@ -10,7 +11,7 @@
 </div></br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&size=30&pause=1000&color=2C2C2C&background=FAFF32&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Sebastian" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=35&pause=1000&color=F7EC09&center=true&vCenter=true&width=500&height=57&lines=Hi+there%2C+I'm+Sebastian+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 
