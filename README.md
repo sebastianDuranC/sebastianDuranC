@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/88981225/211966025-e82f78c5-ed7d-43da-9895-68602c4b4d6a.png"/>
-  
+  <img src="https://user-images.githubusercontent.com/88981225/212773808-85cd8dba-4522-4960-863c-d192e9f86645.png"/>
+
 </div>
 
 <div align="end">
@@ -33,11 +33,11 @@ I like programming especially frontend development and also learning the use of 
 
   ```js
   
- >>  📕 Learn something new
- >>  🕹️ Play video games 
- >>  📺 Watch anime, series as well movies
- >>  🎧 Listen to music
- >>  🥊 Practice boxing
+>📕 Learn something new
+>🕹️ Play video games 
+>📺 Watch anime, series as well movies
+>🎧 Listen to music
+>🥊 Practice boxing
 
   ```
 </br>
@@ -77,7 +77,7 @@ I like programming especially frontend development and also learning the use of 
   
   ## That's my favorite line
   ```js
-  "Si puedes imaginarlo, puedes programarlo"
-  Autor: Alejandro Tabodoa Sánchez
+'Si puedes imaginarlo, puedes programarlo'
+Autor: Alejandro Tabodoa Sánchez
   ```
 <div/>
