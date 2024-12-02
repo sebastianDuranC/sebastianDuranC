@@ -40,7 +40,7 @@ I like programming especially frontend development and also learning the use of 
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,html,css,js,tailwind,linux,netlify,&perline=2)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,html,css,js,tailwind,linux,netlify,&perline=4)](https://skillicons.dev)
 
 </div>
 
