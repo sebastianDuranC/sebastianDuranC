@@ -36,11 +36,11 @@ I like programming especially frontend development and also learning the use of 
   ```
 </br>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40" height="35"/> I'm learning
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40" height="35"/> My Tools
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,html,css,js,tailwind,linux,netlify,&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,html,css,js,tailwind,linux,netlify,windows,notion,github,git,dotnet,arduino,androidstudio&perline=10)](https://skillicons.dev)
 
 </div>
 
