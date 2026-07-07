@@ -1,64 +1,49 @@
-<div align="end">
-<a href="https://www.linkedin.com/in/sebastiandurancaballero/" target="_blank" title="LinkedIn" alt="LindkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastiandurancaballero/" height="30" width="25" /></a> &#160;
-<a href="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" target="_blank" title="Facebook" alt="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005727317608&mibextid=ZbWKwL" height="30" width="25" /></a> &#160;
-<a href="https://www.instagram.com/sebastian_172_duran_/" target="_blank" title="Instagram" alt="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sebastian_172_duran_/" height="30" width="25" /></a>
-</div></br>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sebastianDuranC">
+        <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sebastianDuranC&theme=tokyonight&headerStyle=mac&typingSpeed=250&hostname=github.com&commands=whoami%2Cneofetch%2Cuptime%2Cexit" alt="GitHub Stats Terminal" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/062ff004-4765-445e-a6af-e1e2efc2a1d4" alt="Ippo From Hajime no Ippo" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=35&pause=1000&color=F7EC09&center=true&vCenter=true&width=500&height=57&lines=Hi+there%2C+I'm+Sebastian+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
+## Who am I?
+I am a **Systems Engineering student** 
+I am passionate about software development, focusing my learning path on creating efficient, scalable, and modern applications
 
+- **Current Focus:** Full-Stack Web Development
+- **Special Interest:** Modern backend architectures using **C# .NET**
+- **Learning:** Constantly exploring new frameworks, patterns, and tools to build better software
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sebastianDuranC/count.svg?"/>
-</div>
+## My Tech Stack
+### Languages & Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,tailwind" alt="Tech Stack" />
+  </a>
+</p>
 
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" height="35"/> About me
->>I am studying at the Aquinas University of Bolivia - Udabol, to opt for a degree as a Systems Engineer.</br>
-I'm currently learning Web development technologies. </br>
-I like programming especially frontend development and also learning the use of C# .NET. 
-
-
-## 🔮 My hobbies </br>
-
-<img align="left" width="145" height="130" src="https://user-images.githubusercontent.com/88981225/210670189-9357c1f6-be39-4d21-bda1-9faacb9f3bdd.gif"/>
-
-
-  ```js
+### Tools & Environments
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,ubuntu," alt="Tools" />
+  </a>
+</p>
+</br
   
->📕 Learn something new
->🕹️ Play video games 
->📺 Watch anime, series as well movies
->🎧 Listen to music
->🥊 Practice boxing
-
-  ```
-</br>
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40" height="35"/> My Tools
-
-<div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,html,css,js,tailwind,linux,netlify,windows,notion,github,git,dotnet,arduino,androidstudio&perline=8)](https://skillicons.dev)
-
-</div>
-
-## ⭐ My GitHub States <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 
-<div align="center">
-<a>
-  <img align="center" width="410" height="200" src="https://github-readme-stats.vercel.app/api?username=sebastianDuranC&show_icons=true&theme=codeSTACKr"/>
-</a>  
-<a>&#160;
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianDuranC&theme=gotham&layout=compact"/>
-</a>  
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=venom&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonihth"  />
 </div>
 
 <div align="center">
-  
-  ## That's my favorite line
-  ```js
+
+```js
 'Si puedes imaginarlo, puedes programarlo'
-Autor: Alejandro Tabodoa Sánchez
-  ```
-<div/>
+ Autor: Alejandro Taboada Sánchez
+```
+
+</div>
